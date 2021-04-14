@@ -1,3 +1,5 @@
+
+// Testando para ver se vai dar certo esses commits
 public class Contador
 {
     int c = 0;    
